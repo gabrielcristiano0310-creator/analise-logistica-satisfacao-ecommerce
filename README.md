@@ -37,7 +37,8 @@ A experiência do cliente em e-commerce está diretamente ligada à eficiência 
 
 - `dashboard/` → arquivo .pbix  
 - `images/` → imagens do dashboard  
-- `Relatório - Tempo de Entrega.pdf` → relatório executivo  
+- `Relatório - Tempo de Entrega.pdf` → relatório geral
+- `FIAP - FASE 1 - DATA ANALYTICS.pptx` → relatório executivo
 
 ---
 
