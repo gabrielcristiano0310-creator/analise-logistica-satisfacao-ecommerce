@@ -26,12 +26,6 @@ A experiência do cliente em e-commerce está diretamente ligada à eficiência 
 
 ---
 
-## 🖼️ Dashboard
-
-![Dashboard](images/ANÁLISE DO IMPACTO DO TEMPO DE ENTREGA.png)
-
----
-
 ## 🛠️ Ferramentas Utilizadas
 - Power BI
 - DAX
